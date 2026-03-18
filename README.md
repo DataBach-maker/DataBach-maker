@@ -1,21 +1,21 @@
 # Hi, I'm Ariane 👋
 
-Site Reliability & Data Engineer based in Cologne, Germany. ~5 years building cloud-native data infrastructure — currently focused on **observability**, **platform reliability**, and the intersection of data engineering and SRE.
+A Data Engineer based in Cologne, Germany. ~5 years building data platforms for analytics — mainly focused on **data engineering**, **site reliability**, and **green field analytics projects**
 
-During the day I work at DHL IT Services, building end-to-end monitoring pipelines, IaC environments, and Spark-based data pipelines on Azure. Outside of work, most of my energy goes into **[Horbach Data Platforms](https://github.com/HorbachDataPlatforms)** — a private org where I'm building my own cloud platform from scratch. Demo available on request.
+Outside of my day job, most of my energy goes into **[Horbach Data Platforms](https://github.com/horbach-data-platform)** — a private org where I'm building a data platform for analysing various kinds of data.
 
 ---
 
-## What I work with
+## What I mainly work with
+
+**Data & Pipelines**
+`Apache Spark (Scala & Python)` · `Databricks` · `Delta Lake` · `Azure Data Factory` · `ETL / ELT pipelines`
 
 **Observability & Reliability**
 `OpenTelemetry` · `Azure Monitor` · `Log Analytics / KQL` · `Distributed Tracing` · `Alerting & Dashboards`
 
 **Infrastructure & CI/CD**
 `Terraform` · `Bicep` · `Azure DevOps` · `GitHub Actions` · `DevSecOps (Fortify, SonarQube)`
-
-**Data & Pipelines**
-`Apache Spark (Scala & Python)` · `Databricks` · `Azure Data Factory` · `ETL / ML pipelines`
 
 **Languages**
 `Python (5+ yrs)` · `Scala (3+ yrs)` · `SQL (5+ yrs)` · `Bash`
@@ -27,25 +27,25 @@ During the day I work at DHL IT Services, building end-to-end monitoring pipelin
 
 ## What I'm thinking about lately
 
+- Building a personal data platform for environmental data — currently ingesting air quality data from Germany's Umweltbundesamt API 
+- Site reliability and operations using agentic AI
+- Exploring new opportunities for data engineering and analytics using agents
 - Making observability a first-class citizen in data platforms, not an afterthought
 - OpenTelemetry adoption patterns for data engineering workloads
-- Developer experience and self-service infrastructure
-- The overlap between SRE principles and modern data platform design
-- Reliability patterns for large-scale Spark pipelines
 
 ---
 
 ## A bit of context on my GitHub activity
 
-Most of my active work lives in a private org (**Horbach Data Platforms**) — I'm building a personal cloud platform there and it's where I spend the bulk of my engineering time outside of work. Public contributions are sparse not from lack of activity, but from lack of hours in the day. Happy to walk through the work directly if you're curious.
+Most of my active work lives in a private org (**Horbach Data Platforms**) — I'm building a personal data platform there and it's where I spend the bulk of my engineering time outside of work. Public contributions are sparse not from lack of activity, but from lack of hours in the day. Happy to walk through the work directly if you're curious.
 
-I occasionally write on [Medium](https://medium.com) about things I'm figuring out, and I contribute to Stack Overflow when I have something useful to add.
+I occasionally write on [Medium](https://medium.com/@arianehorbach) about things I'm figuring out, and I contribute to Stack Overflow when I have something useful to add.
 
 ---
 
 ## Background
 
-Before I was an engineer, I was a professional cyclist — competed at the Women's Tour de France and World Cup level. It taught me more about systems thinking, pressure, and iterative improvement than I expected. I bring the same mindset to infrastructure.
+Before I was an engineer, I was a professional cyclist — competed at the Women's Tour de France and World Cup level. That background shaped how I approach engineering: discipline, team work and passion - basically.
 
 MSc. Data Science & Engineering — Eurecom, France  
 BSc. Computer Information Systems — Colorado Mesa University, USA
@@ -54,6 +54,6 @@ BSc. Computer Information Systems — Colorado Mesa University, USA
 
 ## Get in touch
 
-📧 arianehorbach@gmail.com  
 🔗 [linkedin.com/in/ariane-horbach](https://linkedin.com/in/ariane-horbach)  
+🔗 [Medium](https://medium.com/@arianehorbach) 
 📍 Cologne, Germany
