@@ -32,6 +32,7 @@ Outside of my day job, most of my energy goes into **[Horbach Data Platforms](ht
 - Exploring new opportunities for data engineering and analytics using agents
 - Making observability a first-class citizen in data platforms, not an afterthought
 - OpenTelemetry adoption patterns for data engineering workloads
+- Expanding skills in data modeling and data governance 
 
 ---
 
